@@ -10,6 +10,7 @@ import UIKit
 
 class ScheduleTableViewController: UITableViewController {
    
+    var cells: [LectureTableViewCell] = []
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -35,12 +36,18 @@ class ScheduleTableViewController: UITableViewController {
 
     override func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         // #warning Incomplete implementation, return the number of rows
-        return 1
+        return 10
     }
     
     override func tableView(tableView: UITableView, heightForRowAtIndexPath indexPath: NSIndexPath) -> CGFloat {
-        let cell = tableView.cellForRowAtIndexPath(indexPath) as! LectureTableViewCell
-        return cell.calcHeight()
+        print("----")
+        print(indexPath.row)
+        print(cells.count)
+        if cells.count <= indexPath.row{
+            return 10.0
+        }
+        let height = cells[indexPath.row].calcHeight()
+        return height//500.0//cell.calcHeight()
     }
 
     
@@ -49,8 +56,8 @@ class ScheduleTableViewController: UITableViewController {
 
         // Configure the cell...
         
-        cell.data = [8.20,9.40,"sp3","By",224]
-    
+        cell.data = [Float(indexPath.row)+8+0.20,Float(indexPath.row)+9+0.40+Float(indexPath.row),"sp3","By",224]
+        cells.append(cell)
 
         return cell
     }

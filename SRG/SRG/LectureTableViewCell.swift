@@ -16,7 +16,7 @@ class LectureTableViewCell: UITableViewCell {
     @IBOutlet weak var teacher: UILabel!
     @IBOutlet weak var place: UILabel!
     
-    var height = 0.0;
+    var height: CGFloat = 1.0;
     
     var data: [AnyObject]? {
         didSet{
@@ -25,12 +25,12 @@ class LectureTableViewCell: UITableViewCell {
             subject.text = String(data![2] as! String)
             teacher.text = String(data![3] as! String)
             place.text = String(data![4] as! Int)
-            height = data![1] as! Float - data![0] as! Float
+            //height = data![1] as! Float - data![0] as! Float
         }
     }
     
     func calcHeight()->CGFloat{
-        return height*100
+        return ((data![1] as! CGFloat) - (data![0] as! CGFloat)) * 100.0
     }
 
     override func awakeFromNib() {
