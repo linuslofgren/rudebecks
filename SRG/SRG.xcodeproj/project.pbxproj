@@ -11,6 +11,8 @@
 		1A8DFAB51D832DED00895450 /* LectureTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8DFAB41D832DED00895450 /* LectureTableViewCell.swift */; };
 		1A8DFAB71D83322E00895450 /* Teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8DFAB61D83322E00895450 /* Teacher.swift */; };
 		1A8DFAB91D83323800895450 /* Subject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A8DFAB81D83323800895450 /* Subject.swift */; };
+		1AA422251D85A476003AFF70 /* Lecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA422241D85A476003AFF70 /* Lecture.swift */; };
+		1AA422271D85A610003AFF70 /* Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA422261D85A610003AFF70 /* Time.swift */; };
 		1AFECF451D81EE3F001F6A94 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AFECF441D81EE3F001F6A94 /* AppDelegate.swift */; };
 		1AFECF471D81EE3F001F6A94 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AFECF461D81EE3F001F6A94 /* ViewController.swift */; };
 		1AFECF4A1D81EE3F001F6A94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AFECF481D81EE3F001F6A94 /* Main.storyboard */; };
@@ -23,6 +25,8 @@
 		1A8DFAB41D832DED00895450 /* LectureTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LectureTableViewCell.swift; sourceTree = "<group>"; };
 		1A8DFAB61D83322E00895450 /* Teacher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Teacher.swift; sourceTree = "<group>"; };
 		1A8DFAB81D83323800895450 /* Subject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Subject.swift; sourceTree = "<group>"; };
+		1AA422241D85A476003AFF70 /* Lecture.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lecture.swift; sourceTree = "<group>"; };
+		1AA422261D85A610003AFF70 /* Time.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Time.swift; sourceTree = "<group>"; };
 		1AFECF411D81EE3F001F6A94 /* SRG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SRG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AFECF441D81EE3F001F6A94 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1AFECF461D81EE3F001F6A94 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +59,8 @@
 			children = (
 				1A8DFAB61D83322E00895450 /* Teacher.swift */,
 				1A8DFAB81D83323800895450 /* Subject.swift */,
+				1AA422241D85A476003AFF70 /* Lecture.swift */,
+				1AA422261D85A610003AFF70 /* Time.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -183,6 +189,8 @@
 				1A8DFAB71D83322E00895450 /* Teacher.swift in Sources */,
 				1A8DFAB31D832D1300895450 /* ScheduleTableViewController.swift in Sources */,
 				1AFECF471D81EE3F001F6A94 /* ViewController.swift in Sources */,
+				1AA422271D85A610003AFF70 /* Time.swift in Sources */,
+				1AA422251D85A476003AFF70 /* Lecture.swift in Sources */,
 				1A8DFAB91D83323800895450 /* Subject.swift in Sources */,
 				1AFECF451D81EE3F001F6A94 /* AppDelegate.swift in Sources */,
 			);

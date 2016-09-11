@@ -7,3 +7,14 @@
 //
 
 import Foundation
+
+enum Subject : String{
+    case en
+    case sp
+    case fr
+    case ma
+    case hi
+    case sh
+    case ke
+    case sv
+}

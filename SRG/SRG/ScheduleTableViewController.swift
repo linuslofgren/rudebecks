@@ -56,7 +56,7 @@ class ScheduleTableViewController: UITableViewController {
 
         // Configure the cell...
         
-        cell.data = [Float(indexPath.row)+8+0.20,Float(indexPath.row)+9+0.40+Float(indexPath.row),"sp3","By",224]
+        cell.lecture = Lecture(startTime: Clock(time: 10.3), endTime: Clock(time: 11.4), teacher: .By, subject: .sv, place: 102)
         cells.append(cell)
 
         return cell

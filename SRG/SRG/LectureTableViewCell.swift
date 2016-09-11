@@ -18,19 +18,18 @@ class LectureTableViewCell: UITableViewCell {
     
     var height: CGFloat = 1.0;
     
-    var data: [AnyObject]? {
+    var lecture: Lecture! {
         didSet{
-            begin.text = String(data![0] as! Float)
-            end.text = String(data![1] as! Float)
-            subject.text = String(data![2] as! String)
-            teacher.text = String(data![3] as! String)
-            place.text = String(data![4] as! Int)
-            //height = data![1] as! Float - data![0] as! Float
+            begin.text = String(lecture!.startTime.time)
+            end.text = String(lecture!.endTime.time)
+            subject.text = lecture!.subject.rawValue
+            teacher.text = lecture!.teacher.rawValue
+            place.text = String(lecture!.place)
         }
     }
     
     func calcHeight()->CGFloat{
-        return ((data![1] as! CGFloat) - (data![0] as! CGFloat)) * 100.0
+        return CGFloat(((lecture?.endTime.time)! - (lecture?.startTime.time)!) * 100.0)
     }
 
     override func awakeFromNib() {
