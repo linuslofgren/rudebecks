@@ -1,0 +1,64 @@
+{
+  "weeks": [
+    {
+      "week": "34",
+      "days": [
+        {
+          "day": "monday",
+          "reg": "köttfärslimpa",
+          "veg": "cornfärsbiffar"
+        },
+        {
+          "day": "tuesday",
+          "reg": "köttfärslimpa",
+          "veg": "cornfärsbiffar"
+        },
+        {
+          "day": "wednesday",
+          "reg": "köttfärslimpa",
+          "veg": "cornfärsbiffar"
+        },
+        {
+          "day": "thursday",
+          "reg": "köttfärslimpa",
+          "veg": "cornfärsbiffar"
+        },
+        {
+          "day": "friday",
+          "reg": "köttfärslimpa",
+          "veg": "cornfärsbiffar"
+        }
+      ]
+    },
+    {
+      "week": "35",
+      "days": [
+        {
+          "day": "monday",
+          "reg": "sallad",
+          "veg": "sallad2"
+        },
+        {
+          "day": "tuesday",
+          "reg": "kött",
+          "veg": "morot"
+        },
+        {
+          "day": "wednesday",
+          "reg": "bröd",
+          "veg": "Stekt filé med många olika saker i som tar upp lång plats och som måste se snyggt ut"
+        },
+        {
+          "day": "thursday",
+          "reg": "Idag finns det ingen vegetarisk mat",
+          "veg": null
+        },
+        {
+          "day": "friday",
+          "reg": "köttfärslimpa",
+          "veg": "cornfärsbiffar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,976 @@
+{
+  "schemas": {
+    "n1a": {
+      "monday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "tuesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "wednesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "thursday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "friday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      }
+    },
+    "n1b": {
+      "monday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "tuesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "wednesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "thursday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "friday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      }
+    },
+    "n2a": {
+      "monday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "tuesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "wednesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "thursday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "friday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      }
+    },
+    "n2b": {
+      "monday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "tuesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "wednesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "thursday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "friday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      }
+    },
+    "n3a": {
+      "monday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "tuesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "wednesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "thursday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "friday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      }
+    },
+    "n3b": {
+      "monday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "tuesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "wednesday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "thursday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      },
+      "friday": {
+        "lectures": [
+          {
+            "start": 8.2,
+            "end": 9.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 10,
+            "end": 11.3,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 12.2,
+            "end": 13.4,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          },
+          {
+            "start": 13.5,
+            "end": 15,
+            "subject": "Ma1c",
+            "teacher": "Bl",
+            "classroom": 204
+          }
+        ]
+      }
+    }
+  }
+}

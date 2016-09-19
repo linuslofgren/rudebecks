@@ -1,0 +1,55 @@
+{
+  "activities": [
+    {
+      "name": "PROV I SPANSKA",
+      "note": "För n1a, n2c och ngra till",
+      "from": "2016-10-17T14:20:00.000Z",
+      "to": "2016-10-17T16:00:00.000Z",
+      "affected": [
+        "n1a",
+        "n2c",
+        "n3c"
+      ]
+    },
+    {
+      "name": "PROV I Tyska",
+      "note": "För n1a, n2c och ngra till",
+      "from": "2016-10-18T14:20:00.000Z",
+      "to": "2016-10-18T15:00:00.000Z",
+      "affected": [
+        "n1b",
+        "n2b",
+        "n3a"
+      ]
+    },
+    {
+      "name": "PROV I Franska",
+      "note": "För n1a, n2c och ngra till",
+      "from": "2016-10-17T13:20:00.000Z",
+      "to": "2016-10-17T16:00:00.000Z",
+      "affected": [
+        "n2a",
+        "n2b",
+        "n2c"
+      ]
+    },
+    {
+      "name": "PROV",
+      "note": "För n1a, n2c och ngra till",
+      "from": "2016-10-16T14:20:00.000Z",
+      "to": "2016-10-16T16:00:00.000Z",
+      "affected": [
+        "n2c"
+      ]
+    },
+    {
+      "name": "PROV I FYSIK",
+      "note": "För n3c",
+      "from": "2016-10-20T10:20:00.000Z",
+      "to": "2016-10-20T12:00:00.000Z",
+      "affected": [
+        "n3c"
+      ]
+    }
+  ]
+}
