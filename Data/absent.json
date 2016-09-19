@@ -1,17 +1,17 @@
 {
   "absent": [
     {
-      "techer": "By",
+      "teacher": "By",
       "note": "Jobba snälla...",
       "day": "2016-10-17T00:00:00.000Z"
     },
     {
-      "techer": "By",
+      "teacher": "By",
       "note": "Jobba snälla...",
       "day": "2016-10-18T00:00:00.000Z"
     },
     {
-      "techer": "Ri",
+      "teacher": "Ri",
       "note": "Jobba bra...",
       "day": "2016-10-12T00:00:00.000Z"
     }
