@@ -1,0 +1,74 @@
+{
+  "activities": [
+    {
+      "name": "PROV I SPANSKA",
+      "location": "Bellmansalen",
+      "type": "Inlämning",
+      "from": "2016-10-17T14:20:00.000Z",
+      "to": "2016-10-17T16:00:00.000Z",
+      "affected": [
+        "n3a",
+        "n2c",
+        "n1c"
+      ]
+    },
+    {
+      "name": "N1:or - delprov 1 Ke1",
+      "location": "Aulan",
+      "type": "Prov",
+      "from": "2016-10-17T14:20:00.000Z",
+      "to": "2016-10-17T16:00:00.000Z",
+      "affected": [
+        "n1a",
+        "n1b",
+        "n1c"
+      ]
+    },
+    {
+      "name": "PROV I SPANSKA",
+      "location": "315",
+      "type": "Prov",
+      "from": "2016-10-17T14:20:00.000Z",
+      "to": "2016-10-17T16:00:00.000Z",
+      "affected": [
+        "n1b",
+        "n2c",
+        "n3a"
+      ]
+    },
+    {
+      "name": "PROV I Engelska",
+      "location": "306",
+      "type": "Inlämning",
+      "from": "2016-10-17T14:20:00.000Z",
+      "to": "2016-10-17T16:00:00.000Z",
+      "affected": [
+        "n1a",
+        "n2c",
+        "n3c"
+      ]
+    },
+    {
+      "name": "PROV I SPANSKA",
+      "location": "Bellmansalen",
+      "type": "Prov",
+      "from": "2016-10-17T14:20:00.000Z",
+      "to": "2016-10-17T16:00:00.000Z",
+      "affected": [
+        "n1a",
+        "n2c",
+        "n3c"
+      ]
+    },
+    {
+      "name": "Hi-seminarium/enstaka elever",
+      "location": "Bellmansalen",
+      "type": "Seminarium",
+      "from": "2016-10-17T14:20:00.000Z",
+      "to": "2016-10-17T16:00:00.000Z",
+      "affected": [
+        "n3c"
+      ]
+    }
+  ]
+}
