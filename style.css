@@ -1,0 +1,154 @@
+body {
+  padding: 10px;
+  font-size: 15px;
+  background-color: #edf0f1;
+  height: 1334px;
+  width: 750px;
+}
+
+ul.tab {
+    list-style-type: none;
+    margin: 20 0 0 0;
+    padding: 0;
+    width: 100%;
+    height: 60px;
+    bottom: 0;
+    left: 0;
+    position: absolute;;
+    box-shadow:0px -1px 2px rgba(0,0,0,0.15);
+    display: block;
+
+}
+
+/* Style the links inside the list items */
+ul.tab li a {
+    float: left;
+    height: 100%;
+    width: 33.33%;
+    text-align: center;
+    line-height: 60px;
+    background-color: #fff;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 13px;
+}
+
+/* Change background color of links on hover */
+
+ul.tab:hover {
+  background-color: black;
+  cursor: pointer;
+}
+
+/* Create an active/current tablink class */
+ul.tab li:focus {
+  background-color: black;
+}
+
+/* Style the tab content */
+.tabcontent {
+    width: 100%;
+    height: 100%;
+    float:left;
+    display: none;
+}
+
+div.divtop {
+  width: 100%;
+  height: 60px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  padding: 15px;
+  box-shadow: 0px 1px 2px rgba(44,62,80,0.15);
+  display: block;
+
+}
+
+div.divtop h3 {
+  position: relative;
+  top: 5px;
+  text-align: center;
+  font-size: 15px;
+}
+
+p {
+  position: absolute;
+  left: 10px;
+  top: 70px;
+}
+
+ul.kalendariumlist {
+  width: 100%;
+  box-shadow: 0px 1px 2px rgba(44,62,80,0.15);
+  border-radius: 2px;
+  margin-bottom: 50px;
+}
+
+ul.kalendariumlist li {
+  min-height: 30px;
+  width: 100%;
+  background: #fff;
+  font-size: 14px;
+  padding: 10px;
+  cursor: pointer;
+  overflow-y: scroll;
+}
+
+ul.kalendariumlist li.xinfo {
+  cursor: auto;
+}
+
+li.xinfo {
+  font-size: 13px;
+}
+
+li.button {
+  border-bottom: 1px solid #edf0f1;
+}
+
+li.button:last-of-type {
+  border-bottom: none;
+}
+
+li.lastxinfo {
+  border-bottom: 1px solid #edf0f1;
+  font-size: 10px;
+}
+
+#matsedel {
+  min-height: 30px;
+  width: 100%;
+  float: left;
+  margin-top: 60px;
+  background: #fff;
+  box-shadow: 0px 1px 2px rgba(44,62,80,0.15);
+  border-radius: 2px;
+  font-size: 17px;
+  padding: 10px;
+}
+
+#matsedel li {
+  width: 100%;
+  min-height: 30px;
+  float: left;
+  padding: 5px;
+  border-bottom: 1px solid #edf0f1;
+}
+
+#matsedel li:last-of-type {
+  border-bottom: none;
+}
+
+div.testlist {
+  position: absolute;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  display: block;
+  width: 100%;
+  max-height: 630px;
+  overflow-y: scroll;
+}

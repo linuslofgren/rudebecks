@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css" media="screen" title="no title">
+    <link rel="stylesheet" href="reset.css" media="screen" title="no title">
+    <title>tabs 2</title>
+  </head>
+  <body>
+      <ul class="tab">
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openCity(event, 'London')">Schema</a></li>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openCity(event, 'Paris')" id="defaultOpen">Kalendarium</a></li>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openCity(event, 'Tokyo')">Bamba</a></li>
+      </ul>
+
+      <div id="London" class="tabcontent">
+        <div class="divtop">
+            <h3 class"top">Schema</h3>
+        </div>
+        <p id="schemajson">Schema</p>
+      </div>
+
+      <div id="Paris" class="tabcontent">
+        <div class="divtop">
+          <h3 class"top">Kalendarium</h3>
+        </div>
+        <div class="testlist">
+          <ul class="kalendariumlist">
+              <li id="fir1" class="button"></li>
+              <li id="fir2" class="xinfo"></li>
+              <li id="fir3" class="xinfo"></li>
+              <li id="fir4" class="xinfo" class"lastxinfo"></li>
+
+              <li id="sec1" class="button"></li>
+              <li id="sec2" class="xinfo"></li>
+              <li id="sec3" class="xinfo"></li>
+              <li id="sec4" class="xinfo" class"lastxinfo"></li>
+
+              <li id="thi1" class="button"></li>
+              <li id="thi2" class="xinfo"></li>
+              <li id="thi3" class="xinfo"></li>
+              <li id="thi4" class="xinfo" class"lastxinfo"></li>
+
+              <li id="fou1" class="button"></li>
+              <li id="fou2" class="xinfo"></li>
+              <li id="fou3" class="xinfo"></li>
+              <li id="fou4" class="xinfo" class"lastxinfo"></li>
+
+              <li id="fif1" class="button"></li>
+              <li id="fif2" class="xinfo"></li>
+              <li id="fif3" class="xinfo"></li>
+              <li id="fif4" class="xinfo" class"lastxinfo"></li>
+
+            </ul>
+        </div>
+      </div>
+
+      <div id="Tokyo" class="tabcontent">
+
+        <div class="divtop">
+          <h3 class"top">Bamba</h3>
+        </div>
+
+        <ul id="matsedel">
+          <li>Mån</li>
+          <li id="mån"></li>
+          <li>Tis</li>
+          <li id="tis"></li>
+          <li>Ons</li>
+          <li id="ons"></li>
+          <li>Tor</li>
+          <li id="tor"></li>
+          <li>Fre</li>
+          <li id="fre"></li>
+
+        </ul>
+
+
+      </div>
+
+
+      <script src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+    <script src="main.js" type="text/javascript"></script>
+  </body>
+</html>
