@@ -1,55 +1,517 @@
-{
-  "activities": [
-    {
-      "name": "PROV I SPANSKA",
-      "note": "För n1a, n2c och ngra till",
-      "from": "2016-10-17T14:20:00.000Z",
-      "to": "2016-10-17T16:00:00.000Z",
-      "affected": [
-        "n1a",
-        "n2c",
-        "n3c"
-      ]
-    },
-    {
-      "name": "PROV I Tyska",
-      "note": "För n1a, n2c och ngra till",
-      "from": "2016-10-18T14:20:00.000Z",
-      "to": "2016-10-18T15:00:00.000Z",
-      "affected": [
-        "n1b",
-        "n2b",
-        "n3a"
-      ]
-    },
-    {
-      "name": "PROV I Franska",
-      "note": "För n1a, n2c och ngra till",
-      "from": "2016-10-17T13:20:00.000Z",
-      "to": "2016-10-17T16:00:00.000Z",
-      "affected": [
-        "n2a",
-        "n2b",
-        "n2c"
-      ]
-    },
-    {
-      "name": "PROV",
-      "note": "För n1a, n2c och ngra till",
-      "from": "2016-10-16T14:20:00.000Z",
-      "to": "2016-10-16T16:00:00.000Z",
-      "affected": [
-        "n2c"
-      ]
-    },
-    {
-      "name": "PROV I FYSIK",
-      "note": "För n3c",
-      "from": "2016-10-20T10:20:00.000Z",
-      "to": "2016-10-20T12:00:00.000Z",
-      "affected": [
-        "n3c"
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Studiedag",
+    "affected": [
+      "N1a",
+      "N1b",
+      "N1c",
+      "S1a",
+      "S1b",
+      "S1c",
+      "N2a",
+      "N2b",
+      "N2c",
+      "S2a",
+      "S2b",
+      "S2c",
+      "N3a",
+      "N3b",
+      "N3c",
+      "S3a",
+      "S3b",
+      "S3c",
+      "Personal"
+    ],
+    "type": [],
+    "location": [],
+    "from": "2017-01-10T08:20:00.000Z",
+    "to": "2017-01-10T16:00:00.000Z"
+  },
+  {
+    "name": "Eleverna börjar 09.00, träff med kf",
+    "affected": [
+      "N1a",
+      "N1b",
+      "N1c",
+      "S1a",
+      "S1b",
+      "S1c",
+      "N2a",
+      "N2b",
+      "N2c",
+      "S2a",
+      "S2b",
+      "S2c",
+      "N3a",
+      "N3b",
+      "N3c",
+      "S3a",
+      "S3b",
+      "Personal"
+    ],
+    "type": [],
+    "location": [],
+    "from": "2017-01-11T09:00:00.000Z",
+    "to": "2017-01-12T00:00:00.000Z"
+  },
+  {
+    "name": "Inlämning Miljö",
+    "affected": [
+      "N2a",
+      "N2b",
+      "N2c"
+    ],
+    "type": [
+      "Inlämning"
+    ],
+    "location": [],
+    "from": "2017-01-19T09:45:00.000Z",
+    "to": "2017-01-19T11:00:00.000Z"
+  },
+  {
+    "name": "ma3b delprov 2",
+    "affected": [
+      "S3a",
+      "S3b"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [],
+    "from": "2017-01-19T10:00:00.000Z",
+    "to": "2017-01-19T12:00:00.000Z"
+  },
+  {
+    "name": "Bokredovisning eng.5 (enstaka elever) ",
+    "affected": [
+      "N1c"
+    ],
+    "type": [
+      "Seminarium"
+    ],
+    "location": [
+      "306"
+    ],
+    "from": "2017-01-19T11:50:00.000Z",
+    "to": "2017-01-19T13:20:00.000Z"
+  },
+  {
+    "name": "Religion 1, inlämning",
+    "affected": [
+      "S2a"
+    ],
+    "type": [
+      "Inlämning"
+    ],
+    "location": [],
+    "from": "2017-01-20T00:00:00.000Z",
+    "to": "2017-01-21T00:00:00.000Z"
+  },
+  {
+    "name": "Delprov2 Ke1",
+    "affected": [
+      "N1a",
+      "N1b",
+      "N1c"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [
+      "Aulan",
+      "Bellmansalen"
+    ],
+    "from": "2017-01-20T08:20:00.000Z",
+    "to": "2017-01-20T10:50:00.000Z"
+  },
+  {
+    "name": "Delprov2 Ke1",
+    "affected": [
+      "N1a",
+      "N1b",
+      "N1c"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [
+      "Aulan",
+      "Bellmansalen"
+    ],
+    "from": "2017-01-20T08:20:00.000Z",
+    "to": "2017-01-20T10:50:00.000Z"
+  },
+  {
+    "name": "Sv1(be) - inlämning bokreflektion!",
+    "affected": [
+      "S1a"
+    ],
+    "type": [
+      "Inlämning"
+    ],
+    "location": [],
+    "from": "2017-01-20T00:00:00.000Z",
+    "to": "2017-01-21T00:00:00.000Z"
+  },
+  {
+    "name": "Prov Filosofi 1",
+    "affected": [
+      "S1a"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [],
+    "from": "2017-01-20T10:10:00.000Z",
+    "to": "2017-01-20T12:20:00.000Z"
+  },
+  {
+    "name": "Sp.3(by/la) Muntliga prov (enstaka elever)",
+    "affected": [
+      "N1a",
+      "N1b",
+      "N1c",
+      "S1a",
+      "S1b"
+    ],
+    "type": [],
+    "location": [],
+    "from": "2017-01-23T08:20:00.000Z",
+    "to": "2017-01-23T09:40:00.000Z"
+  },
+  {
+    "name": "Ty 3 muntligt prov (Ku)",
+    "affected": [
+      "N1a",
+      "N1b",
+      "N1c",
+      "S1a",
+      "S1b"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [],
+    "from": "2017-01-23T08:20:00.000Z",
+    "to": "2017-01-23T09:40:00.000Z"
+  },
+  {
+    "name": "Hum-Sam-reflektion",
+    "affected": [
+      "S3a",
+      "S3b"
+    ],
+    "type": [],
+    "location": [
+      "Aulan"
+    ],
+    "from": "2017-01-18T00:00:00.000Z",
+    "to": "2017-01-19T00:00:00.000Z"
+  },
+  {
+    "name": "Fra 3 Muntligt prov 8.20 -09.40  Enstaka elever (RE)",
+    "affected": [
+      "N1b",
+      "N1c"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [],
+    "from": "2017-01-23T08:20:00.000Z",
+    "to": "2017-01-23T09:40:00.000Z"
+  },
+  {
+    "name": "fra 3 Muntligt prov 8.20 -09.40  Enstaka elever (RE)",
+    "affected": [
+      "S1a",
+      "S1b"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [],
+    "from": "2017-01-23T08:20:00.000Z",
+    "to": "2017-01-23T09:40:00.000Z"
+  },
+  {
+    "name": "Bokredovisning eng.5 (enstaka elever) ",
+    "affected": [
+      "N1c"
+    ],
+    "type": [
+      "Seminarium"
+    ],
+    "location": [
+      "306"
+    ],
+    "from": "2017-01-23T13:00:00.000Z",
+    "to": "2017-01-23T14:00:00.000Z"
+  },
+  {
+    "name": "Fr 3 muntligt prov (Ku)",
+    "affected": [
+      "N1a",
+      "S1a"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [],
+    "from": "2017-01-23T13:45:00.000Z",
+    "to": "2017-01-23T15:05:00.000Z"
+  },
+  {
+    "name": "Inlämning Utredande text Sv2",
+    "affected": [
+      "N2a"
+    ],
+    "type": [
+      "Inlämning"
+    ],
+    "location": [],
+    "from": "2017-01-23T13:50:00.000Z",
+    "to": "2017-01-23T15:10:00.000Z"
+  },
+  {
+    "name": "Tala  (Book talks) enstaka elever N1b",
+    "affected": [
+      "N1b"
+    ],
+    "type": [],
+    "location": [],
+    "from": "2017-01-24T00:00:00.000Z",
+    "to": "2017-01-25T00:00:00.000Z"
+  },
+  {
+    "name": "Sv1(be) - inlämning bokreflektion!",
+    "affected": [
+      "N1a"
+    ],
+    "type": [
+      "Inlämning"
+    ],
+    "location": [],
+    "from": "2017-01-24T00:00:00.000Z",
+    "to": "2017-01-25T00:00:00.000Z"
+  },
+  {
+    "name": "bokredovisning eng.5 (enstaka elever) ",
+    "affected": [
+      "S1a"
+    ],
+    "type": [
+      "Seminarium"
+    ],
+    "location": [
+      "Lilla rummet"
+    ],
+    "from": "2017-01-24T09:20:00.000Z",
+    "to": "2017-01-24T10:45:00.000Z"
+  },
+  {
+    "name": "Öppet Hus (inga större prov/inlämningar ons-fre i den här veckan)",
+    "affected": [
+      "N1a",
+      "N1b",
+      "N1c",
+      "S1a",
+      "S1b",
+      "S1c",
+      "N2a",
+      "N2b",
+      "N2c",
+      "S2a",
+      "S2b",
+      "S2c",
+      "N3a",
+      "N3b",
+      "N3c",
+      "S3a",
+      "S3b",
+      "Personal"
+    ],
+    "type": [],
+    "location": [],
+    "from": "2017-01-24T17:30:00.000Z",
+    "to": "2017-01-24T20:00:00.000Z"
+  },
+  {
+    "name": "Tala  (Book talks) enstaka elever N1b",
+    "affected": [
+      "N1b"
+    ],
+    "type": [],
+    "location": [],
+    "from": "2017-01-25T00:00:00.000Z",
+    "to": "2017-01-26T00:00:00.000Z"
+  },
+  {
+    "name": "Tala  (Book talks) enstaka elever N1b",
+    "affected": [
+      "N1b"
+    ],
+    "type": [],
+    "location": [],
+    "from": "2017-01-18T00:00:00.000Z",
+    "to": "2017-01-19T00:00:00.000Z"
+  },
+  {
+    "name": "Wallenbergs fysikpris 2017",
+    "affected": [],
+    "type": [],
+    "location": [
+      "Bellmansalen"
+    ],
+    "from": "2017-01-26T08:30:00.000Z",
+    "to": "2017-01-26T13:30:00.000Z"
+  },
+  {
+    "name": "bokredovisning eng.5 (enstaka elever) ",
+    "affected": [
+      "S1a"
+    ],
+    "type": [
+      "Seminarium"
+    ],
+    "location": [
+      "Lilla rummet"
+    ],
+    "from": "2017-01-26T09:20:00.000Z",
+    "to": "2017-01-26T10:30:00.000Z"
+  },
+  {
+    "name": "bokredovisning eng.5 (enstaka elever) ",
+    "affected": [
+      "N1c"
+    ],
+    "type": [
+      "Seminarium"
+    ],
+    "location": [
+      "306"
+    ],
+    "from": "2017-01-26T11:50:00.000Z",
+    "to": "2017-01-26T13:20:00.000Z"
+  },
+  {
+    "name": "Litt.prov Upplysning",
+    "affected": [
+      "N2c"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [],
+    "from": "2017-01-27T00:00:00.000Z",
+    "to": "2017-01-28T00:00:00.000Z"
+  },
+  {
+    "name": "Sp.3(by/la) Muntliga prov (enstaka elever)",
+    "affected": [
+      "N1a",
+      "N1b",
+      "N1c",
+      "S1a",
+      "S1b"
+    ],
+    "type": [],
+    "location": [],
+    "from": "2017-01-27T13:30:00.000Z",
+    "to": "2017-01-27T14:45:00.000Z"
+  },
+  {
+    "name": "Ma 2b-prov ",
+    "affected": [
+      "S2a",
+      "S2b",
+      "S2c"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [
+      "Aulan",
+      "Bellmansalen"
+    ],
+    "from": "2017-01-18T08:20:00.000Z",
+    "to": "2017-01-18T10:30:00.000Z"
+  },
+  {
+    "name": "Delprov Fy 2 N3",
+    "affected": [
+      "N3a",
+      "N3b",
+      "N3c"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [
+      "Aulan",
+      "Bellmansalen"
+    ],
+    "from": "2017-01-19T08:20:00.000Z",
+    "to": "2017-01-19T10:50:00.000Z"
+  },
+  {
+    "name": "Delprov Fy 2 N3",
+    "affected": [
+      "N3a",
+      "N3b",
+      "N3c"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [
+      "Aulan",
+      "Bellmansalen"
+    ],
+    "from": "2017-01-19T08:20:00.000Z",
+    "to": "2017-01-19T10:50:00.000Z"
+  },
+  {
+    "name": "Ma 2b-prov ",
+    "affected": [
+      "S2a",
+      "S2b",
+      "S2c"
+    ],
+    "type": [
+      "Prov"
+    ],
+    "location": [
+      "Aulan",
+      "Bellmansalen"
+    ],
+    "from": "2017-01-18T08:20:00.000Z",
+    "to": "2017-01-18T10:30:00.000Z"
+  },
+  {
+    "name": "GA-dag S3",
+    "affected": [
+      "S3a",
+      "S3b",
+      "Personal"
+    ],
+    "type": [],
+    "location": [],
+    "from": "2017-01-19T08:20:00.000Z",
+    "to": "2017-01-19T16:30:00.000Z"
+  },
+  {
+    "name": "bokredovisning eng.5 (enstaka elever) ",
+    "affected": [
+      "S1a"
+    ],
+    "type": [
+      "Seminarium"
+    ],
+    "location": [
+      "Lilla rummet"
+    ],
+    "from": "2017-01-19T09:20:00.000Z",
+    "to": "2017-01-19T10:30:00.000Z"
+  }
+]
